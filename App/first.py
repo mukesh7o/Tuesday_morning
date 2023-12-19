@@ -10,6 +10,6 @@
 # minima nesciunt dolorem! Officiis iure rerum voluptates a cumque velit" 
 
 
-"This is my master branch code."
+"This is my master branch code." 
 
-"This is second code for master branch."
+"This is adding for changes"
